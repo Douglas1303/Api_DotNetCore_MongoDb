@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ARBG8weHmhZtKt40/FjAVbSYe1EkgJO4MQlRoXJethFd9WGRoWDZFsXpRQulWm/NvH+kNzSLh/F6y9AMjHRl+w==",
+  "dgSpecHash": "gN1x/rBWh2ITbeoNb3sijqqE25aW2AUFOfeeIe288bprk/mb55goxM59hXgrntnetwer0bXXunJTI/x9gDmmPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\douglas.sousa\\Desktop\\Douglas\\DigitalInnovation\\PocMongo\\Api\\Api.csproj",
+  "projectFilePath": "C:\\Users\\douglas.sousa\\Desktop\\Douglas\\DigitalInnovation\\PocMongo\\Api_DotNetCore_MongoDb\\Api\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\douglas.sousa\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\douglas.sousa\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
