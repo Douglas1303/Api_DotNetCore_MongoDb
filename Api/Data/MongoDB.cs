@@ -19,10 +19,6 @@ namespace Api.Data
                 var client = new MongoClient(settings);
                 DB = client.GetDatabase(configuration["Collection"]);
                 MapClasses();
-
-                //var clients = new MongoClient("mongodb+srv://apiMongo:P2w0Xa7kXv3NiiEB@cluster0.4ebt2.mongodb.net/coronavirus?retryWrites=true&w=majority");
-                //var database = clients.GetDatabase("coronavirus");
-                //MapClasses(); 
             }
             catch (Exception ex)
             {
